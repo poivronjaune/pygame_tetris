@@ -1,0 +1,21 @@
+X 01.Install pygame
+X 02.Setup Game LOop
+X 03.Create the grid ( 20 rows and 10 columns) -> 2d array with values of zero for empty cell, 7 colors exist (0 blank, 1-7 shape color)
+X 04.Create the blocks ( Blocks = L, J, I, O, S, T, Z)
+X 05.Move the blocks
+X 07.Rotate the blocks
+X 08.Check for collisions
+X 09.CHeck for complete rows
+X 11.GAme Over
+X 12.Create User interface
+X 13.Add Score
+  14.Add Next block
+  15.Add sounds
+
+
+L-Block     J-Block     I-Block     O-Block     S-Block     T-Block     Z-Block
+  X         X            X          XX           XX          X          XX
+XXX         XXX          X          XX          XX          XXX          XX
+                         X
+                         X
+
